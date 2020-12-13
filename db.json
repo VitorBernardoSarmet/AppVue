@@ -1,0 +1,68 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "name": "João Natural",
+      "idade": 28,
+      "data": "30/02/2018"
+    },
+    {
+      "id": 2,
+      "name": "Guilherme Paes",
+      "idade": 19,
+      "data": "22/01/2017"
+    },
+    {
+      "id": 3,
+      "name": "Jorge Saraiva",
+      "idade": 23,
+      "data": "01/05/2017"
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "name": "Júlio Balestrin",
+      "idade": 41,
+      "especialidade": "Treino de musculação",
+      "data": "02/09/2015"
+    },
+    {
+      "id": 2,
+      "name": "Renato Cariani",
+      "idade": 44,
+      "especialidade": "Treino funcional",
+      "data": "05/10/2016"
+    },
+    {
+      "id": 3,
+      "name": "Angela Borges",
+      "idade": 25,
+      "especialidade": "Calistenia",
+      "data": "09/11/2019"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "name": "José Ferreira",
+      "idade": 52,
+      "area": "Limpeza",
+      "data": "20/06/2019"
+    },
+    {
+      "id": 2,
+      "name": "Clara Sardinha",
+      "idade": 22,
+      "area": "Recepção",
+      "data": "06/02/2020"
+    },
+    {
+      "id": 3,
+      "name": "Vítor Bernardo",
+      "idade": "21",
+      "area": "Gerência",
+      "data": "15/03/2020"
+    }
+  ]
+}
